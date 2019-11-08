@@ -1,6 +1,6 @@
 # Zadania
 
-## Labolatorium 2
+## Laboratorium 2
  
  1. Wyświetl na ekran 2 pierwsze wiersze pliku program.c. (head)
  
@@ -40,7 +40,7 @@ tar -zxf temp.tar.gz
 
 rm -rf temp temp.tar temp.zip LUB rm -rf tem*
 
-## Labolatorium 3
+## Laboratorium 3
 
 1. Wyświetl plik /etc/passwd z podziałem na strony przyjmując, że strona na 5 linii tekstu. (raczej more niż less)
 
@@ -82,7 +82,7 @@ ls -l /var | wc -l
 
 cat /etc/passwd | head -n3 | wc -c
 
-## Labolatorium 5
+## Laboratorium 5
 
 1. Znajdź w swoim katalogu domowym (bez podkatalogów) wszystkie pliki, które zostały zmodyfikowane w ciągu ostatnich dziesięciu dni i wyświetl ich nazwy.
 
